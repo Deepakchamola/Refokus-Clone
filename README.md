@@ -15,7 +15,7 @@ Welcome to the Refokus website clone project! This project aims to replicate the
 - Framer motion: Its a Platform for creating animations.
 
 ## Preview
-<img src="" width="850" height="450"/>
+<img src="https://github.com/Deepakchamola/Refokus-Clone/blob/1ce0b264e42fa422a0e84554a4642b04efe9dca4/Refokus_ss.png" width="850" height="450"/>
 
 ## Acknowledgements
 - Locomotive Scroll - For providing smooth scrolling effects.
