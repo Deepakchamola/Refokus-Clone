@@ -17,9 +17,6 @@ Welcome to the Refokus website clone project! This project aims to replicate the
 ## Preview
 <img src="https://github.com/Deepakchamola/Refokus-Clone/blob/1ce0b264e42fa422a0e84554a4642b04efe9dca4/Refokus_ss.png" width="850" height="450"/>
 
-## Live Demo
-Wacth live view of Refokus clone: [View Live](https://deepakchamola.github.io/Refokus-Clone/)
-
 ## Acknowledgements
 - Locomotive Scroll - For providing smooth scrolling effects.
 - Framer motion - For offering powerful animation tools and libraries.
